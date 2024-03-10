@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**alexflopez/alexflopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 📌 I'm Alex Lopez, you can call me Ale or Alex. 
+# I'm thirty-two years old computer science student and Data engineer or Data analyst if you wish/need.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## -------------
+## Languages:
+## -------------
+Python
+
+## -------------
+## Database:
+## -------------
+Postrgres SQL
+
+## -------------
+## Tools
+## -------------
+Google Cloud Platform, Linux, Git/Github, Google Sheets/Excel
