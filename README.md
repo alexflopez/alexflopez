@@ -1,5 +1,5 @@
 # Hi there 
-I'm Alex Lopez, I'm thirty-two years old Uruguayan-Brazilian computer science student and Data engineer or Data analyst if you wish/need.
+I'm Alex Lopez, I'm thirty-two years old Uruguayan-Brazilian computer science student and Data engineer or Data analyst if you need.
 
 ## Languages:
 Python
