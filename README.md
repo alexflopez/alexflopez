@@ -1,5 +1,5 @@
 # Hi there 
-I'm Alex Lopez, I'm thirty-two years old Uruguayan-Brazilian computer science student and Data engineer or Data analyst if you need.
+I'm Alex Lopez, I'm thirty-two years old Uruguayan-Brazilian Google Cloud Digital Leader Certified, computer science student and Data engineer or Data analyst if you need.
 
 [![Google Cloud Certified](https://img.shields.io/badge/Google%20Cloud%20Certified-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.credly.com/badges/52897ab5-1fe9-4b6c-9fb0-40e70e44b567)
 
@@ -8,7 +8,7 @@ I'm Alex Lopez, I'm thirty-two years old Uruguayan-Brazilian computer science st
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 
-## Database:
+## Databases:
 [![PostgreSQL Notebook](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MySQL Notebook](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
