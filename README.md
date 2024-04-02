@@ -11,4 +11,8 @@ I'm Alex Lopez, I'm thirty-two years old Uruguayan-Brazilian computer science st
 
 
 ## Tools
-Google Cloud Platform, Linux, Git/Github, Google Sheets/Excel
+[![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Spreadsheets](https://img.shields.io/badge/Spreadsheets-00A651?style=for-the-badge&logo=tableau&logoColor=white)](https://www.google.com/sheets/about/)
+
