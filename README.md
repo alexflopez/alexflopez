@@ -1,6 +1,9 @@
 # Hi there 
 I'm Alex Lopez, I'm thirty-two years old Uruguayan-Brazilian computer science student and Data engineer or Data analyst if you need.
 
+[![Google Cloud Certified](https://img.shields.io/badge/Google%20Cloud%20Certified-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/certification/)
+
+
 ## Languages:
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
