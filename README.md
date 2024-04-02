@@ -19,3 +19,4 @@ I'm Alex Lopez, I'm thirty-two years old Uruguayan-Brazilian computer science st
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Spreadsheets](https://img.shields.io/badge/Spreadsheets-00A651?style=for-the-badge&logo=tableau&logoColor=white)](https://www.google.com/sheets/about/)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
