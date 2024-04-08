@@ -4,7 +4,7 @@ I'm Alex Lopez, I'm thirty-two years old Uruguayan-Brazilian Google Cloud Digita
 [![Google Cloud Certified](https://img.shields.io/badge/Google%20Cloud%20Certified-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.credly.com/badges/52897ab5-1fe9-4b6c-9fb0-40e70e44b567)
 
 
-## Languages:
+## Programming Languages:
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 
