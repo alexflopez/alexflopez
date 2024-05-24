@@ -1,5 +1,5 @@
 # Hi there 
-I'm Alex Lopez, I'm thirty-two years old Brazilian-Uruguayan Google Cloud Digital Leader Certified, computer science student and Data engineer or Data analyst if you need.
+I'm Alex Lopez, I'm thirty-two years old Google Cloud Digital Leader Certified, computer science student and Data engineer or Data analyst if you need.
 
 [![Google Cloud Certified](https://img.shields.io/badge/Google%20Cloud%20Certified-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.credly.com/badges/52897ab5-1fe9-4b6c-9fb0-40e70e44b567)
 
