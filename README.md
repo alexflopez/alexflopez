@@ -3,6 +3,8 @@ I'm **Alex Lopez**, Computer Science Bachelor, **Google Cloud Digital Leader Cer
 
 [![Google Cloud Certified](https://img.shields.io/badge/Google%20Cloud%20Certified-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.credly.com/badges/52897ab5-1fe9-4b6c-9fb0-40e70e44b567)
 
+[![Oracle OCI AI Foundations Associate](https://img.shields.io/badge/Oracle%20OCI%20AI%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=70CF81CCCE63A3A5DCD184F58D689240CD27E65FED94C6955EB72BBB0C26D2BC)
+
 ---
 
 ## 👨‍💻 Programming Languages
