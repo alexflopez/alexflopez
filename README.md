@@ -24,6 +24,7 @@ I'm **Alex Lopez**, Computer Science Bachelor, **Google Cloud Digital Leader Cer
 ## ⚙️ Data Engineering & Orchestration
 [![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)](#)
 [![Apache Hop](https://img.shields.io/badge/Apache%20Hop-0A6ED1?style=for-the-badge&logo=apache&logoColor=white)](#)
+[![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
 [![ETL / ELT](https://img.shields.io/badge/ETL%20%2F%20ELT-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white)](#)
 
